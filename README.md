@@ -1,4 +1,7 @@
 ## Matheus
+-Ciência da Computação;<br>
+-21 anos ;<br>
+-Idiomas: inglês e português;
 
 <div align="center">
   <a href="https://github.com/matheusatbibol">
