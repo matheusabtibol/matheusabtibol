@@ -1,8 +1,5 @@
 ## Matheus
--Estudante de Ciência da Computação <br>
--21 anos <br>
--Brasil<br>
--Línguas: inglês e português
+
 <div align="center">
   <a href="https://github.com/matheusatbibol">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusabtibol&layout=compact&langs_count=7&theme=dark"/>
