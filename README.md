@@ -1,12 +1,5 @@
 ## Matheus
 
-
-<div align="center">
-  <a href="https://github.com/matheusatbibol">
-  <a href="https://github.com/matheusabtibol?tab=repositories&q=&type=&language=&sort=" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusabtibol&layout=compact&langs_count=7&theme=dark"/><a>
-
-
-  ##
  
 <div> 
  
